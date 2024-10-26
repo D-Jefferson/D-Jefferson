@@ -11,16 +11,16 @@ Olá 👋, meu nome é Jefferson! Estudante de Análise e Desenvolvimento de Sis
 
   - 🌱 Atualmente estou estudando Análise e Desenvolvimento de Sistemas no Centro Universitário Internacional.
 
-  - 🔭 Meu sonho é um dia trabalhar com IA e Machine Learning.
+  - 🔭 Musico.
 </p>
 
 <!-- Dropdown -->
 <details>
   <summary>👨‍💻 Mais sobre mim</summary>
 
-  - 💬Tenho 22 anos, atualmente moro no Brasil. Tenho fluência em inglês e tenho experiência com SQL, Python, Análise de Dados, Visualização de Dados e Machine Learning.
+  - 💬Tenho 22 anos, atualmente moro no Brasil.
 
-  - ⚡Gosto de ler, sou paixonado por tocar e sentir os sentimento a musica trás e jogar! Acredito que nossos interesses pessoais contribuem para uma percepção mais apurada das coisas e para a resolução de problemas. \o/
+  - ⚡Gosto de ler, sou paixonado por tocar e jogar! Acredito que nossos interesses pessoais contribuem para uma percepção mais apurada das coisas e para a resolução de problemas. \o/
 </details>
 
 <!-- Links -->
