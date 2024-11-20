@@ -30,9 +30,9 @@ Olá 👋, meu nome é Jefferson! Estudante de Análise e Desenvolvimento de Sis
     <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
     <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
     <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-    <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+    <img align="center" alt="https://github.com/D-Jefferson/SindauTools" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
     <img align="center" alt="MySQL" height="30" width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/refs/heads/main/icons/MySQL-Dark.svg">
-    <img align="center" alt="C++" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
+    <img align="center" alt="Cpp" height="30" width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/refs/heads/main/icons/CPP.svg">
   </div>
   
 <!-- Redes -->
