@@ -25,9 +25,6 @@ Olá 👋, meu nome é Jefferson! Estudante de Análise e Desenvolvimento de Sis
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/je_l12/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jefferson-levy-57551317b/)
 
-<!-- GithubStats -->
-![DeveloperJefferson GitHub stats]()
-
 <!-- GIF -->
 <p align="left">
   <img align="center" src="https://github.com/user-attachments/assets/a12cec91-2509-4e2b-be71-21fce0ab7c8f" alt="Imagem">
