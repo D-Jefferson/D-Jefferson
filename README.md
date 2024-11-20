@@ -10,8 +10,6 @@
 Olá 👋, meu nome é Jefferson! Estudante de Análise e Desenvolvimento de Sistemas.
 
   - 🌱 Atualmente estou estudando Análise e Desenvolvimento de Sistemas no Centro Universitário Internacional.
-
-  - 🔭 Musico.
 </p>
 
 <!-- Dropdown -->
@@ -20,12 +18,12 @@ Olá 👋, meu nome é Jefferson! Estudante de Análise e Desenvolvimento de Sis
 
   - 💬Tenho 22 anos, atualmente moro no Brasil.
 
-  - ⚡Gosto de ler, sou paixonado por tocar e jogar! Acredito que nossos interesses pessoais contribuem para uma percepção mais apurada das coisas e para a resolução de problemas. \o/
+  - ⚡Gosto de ler, sou paixonado por tocar e jogos! Acredito que meus interesses pessoais contribuem para principios, resolução de problemas e ideias criativas.
 </details>
 
 <!-- Links -->
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/je_l12/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in//)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jefferson-levy-57551317b/)
 
 <!-- GithubStats -->
 ![DeveloperJefferson GitHub stats]()
