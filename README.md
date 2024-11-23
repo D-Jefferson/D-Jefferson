@@ -8,9 +8,11 @@
 
 <p>
   
-Olá 👋, meu nome é Jefferson! Estudante de Análise e Desenvolvimento de Sistemas.
+Olá 👋, meu nome é Jefferson! Estudante e entusiasta da tecnologia. Apaixonado por musica, eletronica/eletrica e programação.
 
+  - ⚡ Com formação tecnica em eletrotécnica, sou habilitado a atuar desde eletrônicos até instalaões de alta tensão com maximo de 800Mil Volts(800KVa).
   - 🌱 Atualmente estou estudando Análise e Desenvolvimento de Sistemas no Centro Universitário Internacional.
+  - Meus projetos são focados no Python.
 </p>
 
 <!-- Mais... -->
