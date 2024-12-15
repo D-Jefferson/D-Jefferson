@@ -12,7 +12,7 @@ Olá 👋, meu nome é Jefferson! Estudante e entusiasta da tecnologia. Apaixona
 
   - ⚡ Com formação tecnica em eletrotécnica, sou habilitado a atuar desde eletrônicos até instalaões de alta tensão com maximo de 800Mil Volts(800KVa).
   - 🌱 Atualmente estou estudando Análise e Desenvolvimento de Sistemas no Centro Universitário Internacional.
-  - Meus projetos são focados no Python.
+  - Trabalho como analista de dados e suporte no Sindicato das Auto escolas da Bahia, ajustando e corrigindo dados para empresa.
 </p>
 
 <!-- Mais... -->
