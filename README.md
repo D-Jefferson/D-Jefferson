@@ -10,7 +10,7 @@
   
 Olá 👋, meu nome é Jefferson! Estudante e entusiasta da tecnologia. Apaixonado por musica, eletronica/eletrica e programação.
 
-  - ⚡ Com formação tecnica em eletrotécnica, sou habilitado a atuar desde eletrônicos até instalaões de alta tensão com maximo de 800Mil Volts(800KVa).
+  - ⚡ Formado em EletroTécnica e ADS
   - 🌱 Atualmente estou estudando Análise e Desenvolvimento de Sistemas no Centro Universitário Internacional.
   - Trabalho como analista de dados e suporte no Sindicato das Auto escolas da Bahia, ajustando e corrigindo dados para empresa.
 </p>
