@@ -1,7 +1,7 @@
 <!--titulo-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h1 style="display: inline-block">Desenvolvedor e Criativo</h1></summary>
+    <summary><h1 style="display: inline-block">Desenvolvedor Frontend</h1></summary>
 </div>
 
 <!-- Sobre -->
@@ -10,20 +10,10 @@
   
 Olá 👋, meu nome é Jefferson! Estudante e entusiasta da tecnologia. Apaixonado por musica, eletronica/eletrica e programação.
 
-  - ⚡ Formado em EletroTécnica e ADS
+  - ⚡ Formado em EletroTécnica
   - 🌱 Atualmente estou estudando Análise e Desenvolvimento de Sistemas no Centro Universitário Internacional.
-  - Trabalho como analista de dados e suporte no Sindicato das Auto escolas da Bahia, ajustando e corrigindo dados para empresa.
+  - Trabalho como analista de suporte no Sindicato das Auto escolas da Bahia.
 </p>
-
-<!-- Mais... -->
-
-<details>
-  <summary>👨‍💻 Mais sobre mim</summary>
-
-  - 💬Tenho 22 anos, atualmente moro no Brasil.
-
-  - ⚡Gosto de ler, sou paixonado por tocar e jogos! Acredito que meus interesses pessoais contribuem para principios, resolução de problemas e ideias criativas.
-</details>
 
 <!-- Linguagens -->
 🔥 Skills
@@ -34,7 +24,7 @@ Olá 👋, meu nome é Jefferson! Estudante e entusiasta da tecnologia. Apaixona
     <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
     <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
     <img align="center" alt="MySQL" height="30" width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/refs/heads/main/icons/MySQL-Dark.svg">
-    <img align="center" alt="Cpp" height="30" width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/refs/heads/main/icons/CPP.svg">
+    <img align="center" alt="Cpp" height="30" width="40" src="icons/VueJS-Dark.svg">
   </div>
   
 <!-- Redes -->
