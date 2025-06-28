@@ -1,7 +1,7 @@
 <!--titulo-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h1 style="display: inline-block">Desenvolvedor Frontend</h1></summary>
+    <summary><h1 style="display: inline-block">Desenvolvedor Frontend e Analista de Suporte</h1></summary>
 </div>
 
 <!-- Sobre -->
@@ -24,17 +24,12 @@ Olá 👋, meu nome é Jefferson! Estudante e entusiasta da tecnologia. Apaixona
     <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
     <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
     <img align="center" alt="MySQL" height="30" width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/refs/heads/main/icons/MySQL-Dark.svg">
-    <img align="center" alt="Cpp" height="30" width="40" src="icons/VueJS-Dark.svg">
   </div>
   
 <!-- Redes -->
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/je_l12/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jefferson-levy-57551317b/)
 
-<!-- Info -->
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=developerjefferson&" alt="developerjefferson" /></p>
 
 <!-- GIF -->
 
