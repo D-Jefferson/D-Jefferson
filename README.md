@@ -63,3 +63,9 @@ Infraestrutura completa com Go, Docker, NGINX, Prometheus, Grafana e Ansible.
 Stack provisionada automaticamente com um único comando e monitoramento "as code".
 
 `Go` `Docker` `NGINX` `Prometheus` `Grafana` `Ansible`
+
+
+### [Pipeline-ETL-Orquestrada](https://github.com/D-Jefferson/Pipeline-ETL-Orquestrada)
+A arquitetura foi projetada para resolver gargalos clássicos de ambientes transacionais (OLTP), garantindo zero impacto na operação de produção, consistência atômica, idempotência em todas as camadas e entrega de métricas executivas com recursos avançados de Time Intelligence
+
+`Python` `Docker` `Apache Airflow` `DBT` `Mysql` `Aws S3` `PostGreSQL`
