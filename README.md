@@ -58,7 +58,13 @@ Atualmente em transição para a área de DevOps/SRE, com foco em containers, CI
 
 ## 📌 Projeto em Destaque
 
-### [http-server-projeto-korp](https://github.com/D-Jefferson/http-server-projeto-korp)
+### [Terraform](https://github.com/D-Jefferson/Infraestrutura-AWS-Terraform)
+Infraestrutura completa com Go, Docker, NGINX, Prometheus, Grafana e Ansible.  
+Stack provisionada automaticamente com um único comando e monitoramento "as code".
+
+`Go` `Docker` `NGINX` `Prometheus` `Grafana` `Ansible`
+
+### [Observabilidade & IAC](https://github.com/D-Jefferson/observabilidade_iac)
 Infraestrutura completa com Go, Docker, NGINX, Prometheus, Grafana e Ansible.  
 Stack provisionada automaticamente com um único comando e monitoramento "as code".
 
